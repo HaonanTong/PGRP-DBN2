@@ -1,0 +1,34 @@
+AT1G25560	gene:2031184	AT1G25560.1	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	NAS	meeting abstract		Publication:501709105	TAIR	2003-09-10
+AT1G25560	gene:2031184	AT1G25560.1	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	NAS	meeting abstract		Publication:501709105	TAIR	2003-09-10
+AT1G25560	locus:2031185	AT1G25560	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT1G25560	locus:2031185	AT1G25560	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT1G28370	locus:2032500	AT1G28370	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	TAS	none		Publication:2298|PMID:9687012   	syoo	2005-01-19
+AT1G28370	locus:2032500	AT1G28370	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	TAS	none		Publication:2298|PMID:9687012   	syoo	2005-01-19
+AT1G36060	locus:2034295	AT1G36060	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT1G36060	locus:2034295	AT1G36060	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT1G64380	locus:2014185	AT1G64380	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT1G64380	locus:2014185	AT1G64380	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT2G28550	locus:2056573	AT2G28550	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT2G28550	locus:2056573	AT2G28550	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT3G15210	locus:2087065	AT3G15210	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT3G15210	locus:2087065	AT3G15210	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT3G23240	locus:2086223	AT3G23240	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	IGI	double mutant analysis	AGI_LocusCode:AT3G20770	Publication:1947|PMID:9851977   	TAIR	2008-08-22
+AT3G23240	locus:2086223	AT3G23240	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	TAS	none		Publication:1947|PMID:9851977   	syoo	2005-01-19
+AT3G23240	locus:2086223	AT3G23240	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	IGI	double mutant analysis	AGI_LocusCode:AT3G20770	Publication:1947|PMID:9851977   	TAIR	2008-08-22
+AT3G23240	locus:2086223	AT3G23240	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	TAS	none		Publication:1947|PMID:9851977   	syoo	2005-01-19
+AT3G25730	locus:2085969	AT3G25730	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT3G25730	locus:2085969	AT3G25730	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT4G11140	locus:2136078	AT4G11140	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT4G11140	locus:2136078	AT4G11140	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT4G16750	locus:2129111	AT4G16750	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT4G16750	locus:2129111	AT4G16750	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT5G13910	locus:2159068	AT5G13910	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT5G13910	locus:2159068	AT5G13910	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	IEA	none	UniProtKB-KW:KW-0936	AnalysisReference:501756968		2016-08-01
+AT5G47220	locus:2171514	AT5G47220	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	TAS	none		Publication:2298|PMID:9687012   	syoo	2005-01-19
+AT5G47220	locus:2171514	AT5G47220	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	TAS	none		Publication:665|PMID:10715325  	syoo	2005-01-19
+AT5G47220	locus:2171514	AT5G47220	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	TAS	none		Publication:2298|PMID:9687012   	syoo	2005-01-19
+AT5G47220	locus:2171514	AT5G47220	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	TAS	none		Publication:665|PMID:10715325  	syoo	2005-01-19
+AT5G47230	locus:2171529	AT5G47230	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	TAS	none		Publication:2298|PMID:9687012   	syoo	2005-01-19
+AT5G47230	locus:2171529	AT5G47230	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	other cellular processes	TAS	none		Publication:665|PMID:10715325  	syoo	2005-01-19
+AT5G47230	locus:2171529	AT5G47230	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	TAS	none		Publication:2298|PMID:9687012   	syoo	2005-01-19
+AT5G47230	locus:2171529	AT5G47230	involved in	ethylene-activated signaling pathway	GO:0009873	8852	P	signal transduction	TAS	none		Publication:665|PMID:10715325  	syoo	2005-01-19
