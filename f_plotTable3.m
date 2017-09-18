@@ -184,6 +184,37 @@ if any(strcmp(varargin,'Normalized'))
     fprintf('#####################################\n');
 
 end
+
+
+% =========  'Normalized Legend' ===========
+% Zero mean standard deviation
+if any(strcmp(varargin,'Normalized Legend'))
+    counter = counter + 1;
+
+    %% Plot
+    fig{counter} = figure;x = 0 : 1 : 6;
+    hold on;axis([0 6 -3 3])
+    plot(x, expr_n_mv');
+    %plot(x,mean( expr_n_mv),'Color','r','LineWidth',4);
+    xticks(0:6)
+    xticklabels({'0','0.25','0.5','1','4','12','24'})
+    title(sprintf...
+        ( 'Plot of expression file\n "%s" with %d gene object profiles',...
+        csv, ngene))
+    legend(agis);
+    xlabel('Ethylene treatment(hrs)');
+    ylabel('Normalized');
+    set(gca,'fontsize',14);
+    grid on
+
+    print(fig{counter},sprintf('%s/%s-Normalized',dir_Figures,csv_token),'-dpng');
+    fprintf(' Success!\n')
+    fprintf('#####################################\n');
+
+end
+
+
+
 % =========  'Network Analysis log' ===========
 if any(strcmp(varargin,'Network Analysis log'))
     counter = counter + 1;
